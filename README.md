@@ -1,3 +1,1 @@
-### TESTE TESTE 1
-## teste 2
-# teste 3
+# Corrigindo bugs | Explorer Stage 2
